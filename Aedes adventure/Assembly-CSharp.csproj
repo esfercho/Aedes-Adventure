@@ -59,12 +59,17 @@
     <UnityVersion>2022.3.34f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Oscar Lopez\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\Oscar Lopez\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.4\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Utilidades\Leeme.cs" />
+    <Compile Include="Assets\Recursos\Leeme.cs" />
+    <Compile Include="Assets\Modelo\Leeme.cs" />
+    <Compile Include="Assets\Controladores\Leeme.cs" />
+    <Compile Include="Assets\Prefabs\Leeme.cs" />
+    <Compile Include="Assets\Vistas\Leeme.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -1,0 +1,1 @@
+// Almacena los prefabs que pueden ser utilizados tanto por las vistas como por los controladores.
